@@ -33,6 +33,7 @@ The models do the heavy lifting.
 multi-ai-team-playbook/
 │
 ├── CONTEXT.md          ← Fill this in first. Your standing brief.
+├── sample-CONTEXT.md   ← Working example to emulate
 ├── README.md           ← You are here.
 │
 ├── reports/            ← Research agent drops findings here
@@ -45,11 +46,13 @@ multi-ai-team-playbook/
 └── inbox/
     └── tasks.md        ← Task queue for any agent
 ```
+
 ## What Each Folder Does
 
 | Folder / File | Purpose |
 |---|---|
-| `CONTEXT.md` | Fill this in first. Your standing brief. |
+| `CONTEXT.md` | Blank template — fill this in with your information |
+| `sample-CONTEXT.md` | Working example to emulate |
 | `README.md` | You are here. |
 | `reports/` | Research agent drops findings here |
 | `analysis/` | Analysis agent responses go here |
@@ -58,17 +61,16 @@ multi-ai-team-playbook/
 | `memory/products-watched.md` | Persistent tracker of items under evaluation |
 | `inbox/tasks.md` | Task queue for any agent |
 
-
-
 ---
 
 ## Start Here
 
 1. Fork or copy this repo
 2. Make it private if your work is sensitive
-3. Fill in `CONTEXT.md` with your information
-4. Read the full methodology in the playbook
-5. Run your first cycle
+3. Read `sample-CONTEXT.md` to see a working example
+4. Fill in `CONTEXT.md` with your own information
+5. Read the full methodology in the playbook
+6. Run your first cycle
 
 ---
 
