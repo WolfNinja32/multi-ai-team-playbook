@@ -45,7 +45,7 @@ multi-ai-team-playbook/
 └── inbox/
     └── tasks.md        ← Task queue for any agent
 ```
-## Repo Details
+## What Each Folder Does
 
 | Folder / File | Purpose |
 |---|---|
