@@ -180,4 +180,4 @@ you knows what changed.
 ## Still have questions?
 
 Check [SETUP.md](SETUP.md) for detailed setup instructions, or 
-email gregorydcollins@mac.com for support.
+email gregorydcollins.support@gmail.com for support.
