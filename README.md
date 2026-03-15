@@ -93,7 +93,7 @@ multi-ai-team-playbook/
 The full methodology — including worked examples, prompt templates, 
 and the three-tier automation framework — is available at:
 
-**[Link to Gumroad listing]**
+**https://gregorydcollins.gumroad.com/l/multi-ai-team-playbook**
 
 ---
 
