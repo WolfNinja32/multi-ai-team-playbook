@@ -6,6 +6,19 @@ AIs, One Team, Zero Code**.
 
 ---
 
+## Jump To
+
+- [Start Here](#start-here)
+- [What This Is](#what-this-is)
+- [How It Works](#how-it-works)
+- [Repo Structure](#repo-structure)
+- [What Each Folder Does](#what-each-folder-does)
+- [The Playbook](#the-playbook)
+- [FAQ](FAQ.md)
+- [Setup Instructions](SETUP.md)
+
+---
+
 ## What This Is
 
 This repo gives you everything you need to set up your own multi-AI 
@@ -32,9 +45,12 @@ The models do the heavy lifting.
 ```text
 multi-ai-team-playbook/
 │
-├── CONTEXT.md                      ← Fill this in first. Your standing brief.
+├── CONTEXT.md                      ← Blank template — fill this in
+├── MY-CONTEXT.md                   ← Your personal copy (you create this)
 ├── sample-CONTEXT.md               ← Working example to emulate
 ├── README.md                       ← You are here.
+├── SETUP.md                        ← Start here — setup instructions
+├── FAQ.md                          ← Common questions and answers
 │
 ├── prompts/
 │   ├── chatgpt-research-prompt.md      ← Reusable ChatGPT session starter
@@ -65,8 +81,11 @@ multi-ai-team-playbook/
 
 | Folder / File | Purpose |
 |---|---|
-| `CONTEXT.md` | Blank template — fill this in with your information |
+| `SETUP.md` | Start here — step-by-step setup for iPhone, Mac, and Windows |
+| `CONTEXT.md` | Blank template — do not edit this directly |
+| `MY-CONTEXT.md` | Your personal copy — edit this with your information |
 | `sample-CONTEXT.md` | Working example to emulate |
+| `FAQ.md` | Common questions and answers |
 | `prompts/` | Reusable session starters for each model |
 | `reports/` | Research agent drops findings here |
 | `analysis/` | Analysis agent responses go here |
@@ -79,12 +98,10 @@ multi-ai-team-playbook/
 
 ## Start Here
 
-1. Fork or copy this repo
-2. Make it private if your work is sensitive
-3. Read `sample-CONTEXT.md` to see a working example
-4. Fill in `CONTEXT.md` with your own information
-5. Read the full methodology in the playbook
-6. Run your first cycle using the prompt templates in `prompts/`
+New to this? Go straight to [SETUP.md](SETUP.md) for step-by-step 
+instructions for your platform — iPhone, Mac, and Windows.
+
+Have questions? Check [FAQ.md](FAQ.md) for common questions and answers.
 
 ---
 
